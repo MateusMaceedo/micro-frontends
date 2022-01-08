@@ -20,7 +20,6 @@ The projects are: 2 in react (navbar and app1) , 1 (project transformed on mfe) 
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
